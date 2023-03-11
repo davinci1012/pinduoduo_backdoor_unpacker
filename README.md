@@ -33,7 +33,7 @@ public class ManweVmpLoader {
 
 PDD的恶意代码以加壳后的文件形式组织，APK自带AliveBaseAbility，其他的都是远程下发，以下称为“样本”。因为有些样本是动态下发，不一定全，如果有这里没有的，欢迎Pull Request补充。
 
-样本在samples目录中，包含PDD APK自带的样本，以及其动态下发的样本。动态样本为3.2日之前从安装了PDD的手机里提取出，现在新版本可能被PDD删掉了，有兴趣的可以找下装了之前的版本的手机看下，顺便看下`app_mango`目录，里面是配置文件，有惊喜。
+样本在samples目录中，包含PDD APK自带的样本，以及其动态下发的样本。动态样本为3.2日之前从安装了PDD的手机里/data/data/com.xunmeng.pinduoduo/files/bot/, /data/data/com.xunmeng.pinduoduo/files/.components/提取出，现在新版本可能被PDD删掉了，有兴趣的可以找下装了之前的版本的手机看下，顺便看下`app_mango`目录，里面是配置文件，有惊喜。
 
 带符号的样本为PDD 6.2.0提取出(`samples/old_alive_base_ability_with_symbol/mw1.bin`)，新版本的APP携带的样本去掉了符号。
 
