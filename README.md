@@ -1,6 +1,6 @@
 # Pinduoduo恶意代码样本和脱壳机
 
-听说PDD今天开始发律师函删帖否认了![PDDNB](https://user-images.githubusercontent.com/25000885/224233765-5195f16a-f41c-482f-a664-1cf72796651e.png)，那就放点新东西出来。
+听说PDD今天开始发律师函删帖抵赖了![PDDNB](https://user-images.githubusercontent.com/25000885/224233765-5195f16a-f41c-482f-a664-1cf72796651e.png)，那就放点新东西出来。
 
 拼多多的两个壳，manwe和nvwa之一的manwe脱壳脚本。适用于样本中.mw1文件。.nw0要用nvwa脱壳脚本，过会再放，manwe里面基本已经足够看了。
 
