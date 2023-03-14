@@ -1,0 +1,12 @@
+
+.version 50 0
+
+.class {is_public} {is_interface} {name}
+.super {parent_class}
+
+{implements}
+{fields}
+{methods}
+
+
+.end class
