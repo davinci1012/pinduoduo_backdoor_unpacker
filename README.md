@@ -1,3 +1,7 @@
+# 详细分析报告 Detailed Analysis Report
+
+English version see [Report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report/blob/main/report_en.pdf), 中文分析报告见[分析报告](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report/blob/main/report_cn.pdf)
+
 # Pinduoduo恶意代码样本和脱壳机
 
 听说PDD今天开始发律师函删帖抵赖了![PDDNB](https://user-images.githubusercontent.com/25000885/224233765-5195f16a-f41c-482f-a664-1cf72796651e.png)，那就放点新东西出来。
